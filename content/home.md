@@ -31,7 +31,7 @@ Support and follow the process of building a Bitcoin economy in Suriname:
 We are building the **Community Hub** at the old Surinamese House – a physical space for workshops, merchant onboarding, and international visitors.  
 This project is funded directly through Bitcoin donations, ensuring transparency and autonomy.
 
-👉 [Read more about the project](community-treff.md)
+👉 [Read more about the project](community-hub.md)
 
 ---
 

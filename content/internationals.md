@@ -28,7 +28,7 @@ Suriname welcomes Bitcoin migrants and visitors:
 - Connect with the local community through workshops and meetups
 - Explore opportunities to contribute skills, resources, or partnerships
 
-👉 [Read more about the Community Hub](community-treff.md)
+👉 [Read more about the Community Hub](community-hub.md)
 
 ---
 
@@ -39,7 +39,7 @@ BitcoinSranan is not just about payments – it’s about building resilient inf
 - Documentation of local infrastructure (power, internet, payments)
 - A roadmap for scaling the circular economy
 
-👉 [See our strategy paper](projects.md)
+👉 [See our strategy paper](strategy.md)
 
 ---
 

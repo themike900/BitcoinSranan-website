@@ -14,30 +14,6 @@ BitcoinSranan is creating a local and global bridge:
 
 ---
 
-## 📌 What’s happening now
-- Building the **Community Hub** at the old Surinamese House – a physical space for workshops, meetups, and merchant onboarding.
-- Onboarding local shops with **Lightning payments** and **NFC-cards**.
-- Preparing for international visitors and Bitcoin migrants.
-- Developing educational resources in English and Dutch.
-
----
-
-## 💡 How to contribute
-- **Locals:** Join workshops, try Bitcoin payments, and help grow the community.
-- **Internationals:** Support us through donations, share knowledge, or visit Suriname to experience the process firsthand.
-
----
-
-## 💸 Donations
-We use **BTCPayServer** for transparent, direct Bitcoin donations:
-- Lightning and On-Chain supported
-- No intermediaries, full community control
-- Funds go directly into local projects like the Community Hub
-
-👉 Donation link/QR will be added here soon.
-
----
-
 ## 📂 Repository Structure
 - `content/` → Drafts of website pages (Home, About, Projects, Resources, etc.)
 - `donations/` → BTCPayServer integration and transparency reports

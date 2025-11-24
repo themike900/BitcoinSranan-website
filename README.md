@@ -3,6 +3,8 @@
 Welcome to **BitcoinSranan**, a community initiative building a circular Bitcoin economy in Suriname.  
 This repository contains the content and structure for our public website.
 
+👉 Start here: [website home](content/home.md)
+
 ---
 
 ## 🌍 Mission
@@ -14,7 +16,7 @@ BitcoinSranan is creating a local and global bridge:
 
 ## 📌 What’s happening now
 - Building the **Community Hub** at the old Surinamese House – a physical space for workshops, meetups, and merchant onboarding.
-- Onboarding local shops with **Lightning payments** and **BoltCards**.
+- Onboarding local shops with **Lightning payments** and **NFC-cards**.
 - Preparing for international visitors and Bitcoin migrants.
 - Developing educational resources in English and Dutch.
 
@@ -45,7 +47,7 @@ We use **BTCPayServer** for transparent, direct Bitcoin donations:
 ---
 
 ## 📬 Contact
-- Telegram: t.me/bitcoinsranan
+- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
 - Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
 - Twitter/X: @bitcoinsranan
 

@@ -44,8 +44,8 @@ Your support goes directly into local projects like the Community Hub, merchant 
 ---
 
 ## 📬 Stay Connected
-- Telegram: [link to community group]  
-- Nostr: [public key / relay info]  
-- Twitter/X: [handle]  
+- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
+- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
+- Twitter/X: @bitcoinsranan
 
 Join the conversation and be part of BitcoinSranan.

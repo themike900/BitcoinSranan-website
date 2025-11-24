@@ -50,8 +50,8 @@ We provide NFC cards locally and help you set them up with **LNbits** for maximu
 ---
 
 ## 📬 Stay Connected
-- Telegram: [link to local group]  
-- Nostr: [public key]  
-- Twitter/X: [handle]  
+- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
+- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
+- Twitter/X: @bitcoinsranan
 
 BitcoinSranan is your community. Let’s build the future together.

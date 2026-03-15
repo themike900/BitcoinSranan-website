@@ -10,9 +10,9 @@ Step-by-step guides for everyday use:
 - **NFC-card Guide** → How to provision and use NFC cards with LNbits
 - **First Payment** → Making your first Lightning transaction
 - **Merchant Onboarding** → How shops can start accepting Bitcoin
-- **POS device** -> How to connect Opago POS device with Blink wallet
+- **POS device** -> How to connect Bitcoinizer POS device with Blink wallet
 
-👉 [Download tutorials](#) (PDFs and videos will be added here)
+👉 [Download tutorials]() (PDFs and videos will be added here)
 
 ---
 

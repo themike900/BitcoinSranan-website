@@ -15,11 +15,10 @@ This page is your guide to getting started and joining the community.
 
 ## 📱 Step 1: Get a Wallet
 Download a mobile Bitcoin wallet to start:
-- Phoenix Wallet (easy and beginner-friendly)
-- Breez Wallet (great for payments and point-of-sale)
-- Mutiny Wallet (privacy-focused)
+- Blink Wallet (easy and beginner-friendly)
+- Phoenix Wallet (non-custodial, not yor keys not your coins)
 
-👉 Once installed, you’ll have your own Bitcoin address and Lightning capability.
+👉 Once [installed](), you’ll have your own Bitcoin address and Lightning capability.
 
 ---
 
@@ -27,7 +26,7 @@ Download a mobile Bitcoin wallet to start:
 With a **BoltCard** you can pay by simply tapping – just like a bank card, but with Bitcoin.  
 We provide NFC cards locally and help you set them up with **LNbits** for maximum privacy.
 
----
+👉 Setup at work
 
 ## 🛒 Step 3: Make Your First Payment
 - Visit a shop that accepts Bitcoin

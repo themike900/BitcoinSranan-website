@@ -39,7 +39,7 @@ This project is funded directly through Bitcoin donations, ensuring transparency
 Help us grow by donating through **BTCPayServer**.  
 Your support goes directly into local projects like the Community Hub, merchant onboarding, and education.
 
-👉 [Donate here](donations/btcpayserver.md)
+👉 [Donate here](https://btcpay.bitcoinsranan.com/apps/4ZNM3n8mQinWNrEaMK6toiujeTpJ/crowdfund)
 
 ---
 

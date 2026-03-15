@@ -16,7 +16,7 @@ This page is your guide to getting started and joining the community.
 ## 📱 Step 1: Get a Wallet
 Download a mobile Bitcoin wallet to start:
 - Blink Wallet (easy and beginner-friendly)
-- Phoenix Wallet (non-custodial, not yor keys not your coins)
+- Phoenix Wallet (noncustodial, not yor keys not your coins)
 
 👉 Once [installed](), you’ll have your own Bitcoin address and Lightning capability.
 

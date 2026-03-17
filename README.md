@@ -3,7 +3,7 @@
 Welcome to **BitcoinSranan**, a community initiative building a circular Bitcoin economy in Suriname.  
 This repository contains the content and structure for our public website.
 
-👉 Start here: [website home](index)
+👉 Start here: [website home](content/index.md)
 
 ---
 

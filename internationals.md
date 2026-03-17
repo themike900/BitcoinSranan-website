@@ -21,11 +21,11 @@ Suriname welcomes Bitcoin migrants and visitors:
 - Connect with the local community through workshops and meetups
 - Explore opportunities to contribute skills, resources, or partnerships
 
-👉 [Read more about the Community Hub](community-hub.md)
+👉 [Read more about the Community Hub](/community-hub.html)
 
 ---
 
 Join us in building a model for Bitcoin adoption that others can learn from.
 
-👉 [Contact us](contact.md)
-👉 [BitcoinSranan home](/index.md)
+👉 [Contact us](/contact.html)
+👉 [BitcoinSranan home](/index.html)

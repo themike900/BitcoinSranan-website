@@ -27,11 +27,11 @@ Join us at the **Community Hub** under the old Surinamese House:
 - A place to learn and connect
 - Playground for children
 
-👉 [Read more about the Community Hub](community-hub.md)
+👉 [Read more about the Community Hub](/community-hub.html)
 
 ---
 
 BitcoinSranan is your community.  
 Reach out, join the conversation, and help us build the future together.
 
-👉 [BitcoinSranan home](/index.md)
+👉 [BitcoinSranan home](/index.html)

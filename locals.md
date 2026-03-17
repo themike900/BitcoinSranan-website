@@ -45,12 +45,12 @@ We provide NFC cards locally and help you set them up with **LNbits** for maximu
 ---
 
 ## 📚 Learn More
-- [Resources](/resources.md) → Tutorials, FAQs, and guides
-- [Projects](/projects.md) → See what we’re building together
+- [Resources](/resources.html) → Tutorials, FAQs, and guides
+- [Projects](/projects.html) → See what we’re building together
 
 ---
 
 BitcoinSranan is your community. Let’s build the future together.
 
-👉 [Contact us](contact.md)
-👉 [BitcoinSranan home](/index.md)
+👉 [Contact us](/contact.html)
+👉 [BitcoinSranan home](/index.html)

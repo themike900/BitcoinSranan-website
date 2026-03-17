@@ -44,12 +44,12 @@ Your wallet can be restored with a backup phrase. Always write it down and keep 
 - [Bitcoin.org](https://bitcoin.org) → General introduction to Bitcoin
 - [BTCPayServer.org](https://btcpayserver.org) → Learn about BTCPayServer
 - [LNbits.com](https://lnbits.com) → Tools for managing Lightning wallets and BoltCards
-- [Suriname Infrastructure Notes](/projects.md) → Local documentation and quirks
+- [Suriname Infrastructure Notes](/projects.html) → Local documentation and quirks
 
 ---
 
 BitcoinSranan is about making Bitcoin practical and accessible.  
 Use these resources to learn, teach, and share.
 
-👉 [Contact us](contact.md)
-👉 [BitcoinSranan home](/index.md)
+👉 [Contact us](/contact.html)
+👉 [BitcoinSranan home](/index.html)

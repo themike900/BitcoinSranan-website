@@ -12,7 +12,7 @@ Discover how Bitcoin can be part of your everyday life:
 - See which shops already accept Bitcoin
 - Be part of building the **Community Hub** at the old Surinamese House
 
-👉 [Start here](/locals.md)
+👉 [Start here](/locals.html)
 
 ---
 
@@ -23,7 +23,7 @@ Support and follow the process of building a Bitcoin economy in Suriname:
 - Information for Bitcoin migrants and visitors
 - Strategic insights into how Bitcoin empowers small economies
 
-👉 [Learn more](/internationals.md)
+👉 [Learn more](/internationals.html)
 
 ---
 
@@ -31,7 +31,7 @@ Support and follow the process of building a Bitcoin economy in Suriname:
 We are building the **Community Hub** at the old Surinamese House – a physical space for workshops, merchant onboarding, and international visitors.  
 This project is funded directly through Bitcoin donations, ensuring transparency and autonomy.
 
-👉 [Read more about the project](/community-hub.md)
+👉 [Read more about the project](/community-hub.html)
 
 ---
 
@@ -45,4 +45,4 @@ Your support goes directly into local projects like the Community Hub, merchant 
 
 Join the conversation and be part of BitcoinSranan.
 
-👉 [Contact us](contact.md)
+👉 [Contact us](/contact.html)

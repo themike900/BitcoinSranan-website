@@ -10,7 +10,7 @@ This page collects local news, project updates, and international mentions.
 - **August 2026:** Installation of internet and Lightning terminals planned.
 - **September 2026:** Preparing the Hub for international visitors during the Suriname Decentralized Conference.
 
-👉 [Read more about the Community Hub](/community-hub.md)
+👉 [Read more about the Community Hub](/community-hub.html)
 
 ---
 
@@ -37,5 +37,5 @@ This page collects local news, project updates, and international mentions.
 
 Check back here for regular updates – BitcoinSranan is a living process.
 
-👉 [Contact us](contact.md)
-👉 [BitcoinSranan home](/index.md)
+👉 [Contact us](/contact.html)
+👉 [BitcoinSranan home](/index.html)

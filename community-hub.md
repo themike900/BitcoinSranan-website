@@ -1,5 +1,5 @@
 
 ---
 
-👉 [Contact us](contact.md)
-👉 [BitcoinSranan home](/index.md)
+👉 [Contact us](/contact.html)
+👉 [BitcoinSranan home](/index.html)

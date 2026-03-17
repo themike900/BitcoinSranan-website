@@ -28,6 +28,8 @@ We provide NFC cards locally and help you set them up with **LNbits** for maximu
 
 👉 Setup at work
 
+---
+
 ## 🛒 Step 3: Make Your First Payment
 - Visit a shop that accepts Bitcoin
 - Scan the QR code or tap your BoltCard
@@ -43,14 +45,12 @@ We provide NFC cards locally and help you set them up with **LNbits** for maximu
 ---
 
 ## 📚 Learn More
-- [Resources](resources.md) → Tutorials, FAQs, and guides
-- [Projects](projects.md) → See what we’re building together
+- [Resources](/resources.md) → Tutorials, FAQs, and guides
+- [Projects](/projects.md) → See what we’re building together
 
 ---
 
-## 📬 Stay Connected
-- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
-- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
-- Twitter/X: @bitcoinsranan
-
 BitcoinSranan is your community. Let’s build the future together.
+
+👉 [Contact us](contact.md)
+👉 [BitcoinSranan home](/index.md)

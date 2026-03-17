@@ -18,7 +18,7 @@ We use **BTCPayServer** for transparent, direct Bitcoin donations:
 - No intermediaries – full community control
 - Funds go directly into local projects like the **Community Hub** at the old Surinamese House
 
-👉 [Donate here](../donations/btcpayserver.md)
+👉 [Donate here](https://btcpay.bitcoinsranan.com/apps/4ZNM3n8mQinWNrEaMK6toiujeTpJ/crowdfund)
 
 ---
 
@@ -28,7 +28,7 @@ Suriname welcomes Bitcoin migrants and visitors:
 - Connect with the local community through workshops and meetups
 - Explore opportunities to contribute skills, resources, or partnerships
 
-👉 [Read more about the Community Hub](community-treff.md)
+👉 [Read more about the Community Hub](/community-hub.md)
 
 ---
 
@@ -43,9 +43,7 @@ BitcoinSranan is not just about payments – it’s about building resilient inf
 
 ---
 
-## 📬 Stay Connected
-- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
-- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
-- Twitter/X: @bitcoinsranan
-
 Join us in building a model for Bitcoin adoption that others can learn from.
+
+👉 [Contact us](contact.md)
+👉 [BitcoinSranan home](/index.md)

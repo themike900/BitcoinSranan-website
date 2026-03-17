@@ -6,11 +6,11 @@ This page collects local news, project updates, and international mentions.
 ---
 
 ## 🏠 Community Hub Progress
-- **December 2025:** Renovation of the old Surinamese House and the yard has started.
-- **January 2026:** Installation of internet and Lightning terminals planned.
-- **March 2026:** Preparing the Hub for international visitors during the Suriname Decentralized Conference.
+- **March 2026:** Renovation of the old Surinamese House and the yard has started.
+- **August 2026:** Installation of internet and Lightning terminals planned.
+- **September 2026:** Preparing the Hub for international visitors during the Suriname Decentralized Conference.
 
-👉 [Read more about the Community Hub](community-hub.md)
+👉 [Read more about the Community Hub](/community-hub.md)
 
 ---
 
@@ -35,9 +35,7 @@ This page collects local news, project updates, and international mentions.
 
 ---
 
-## 📬 How to Follow
-- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
-- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
-- Twitter/X: @bitcoinsranan
-
 Check back here for regular updates – BitcoinSranan is a living process.
+
+👉 [Contact us](contact.md)
+👉 [BitcoinSranan home](/index.md)

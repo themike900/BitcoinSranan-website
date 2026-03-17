@@ -5,20 +5,13 @@ This page is for international supporters, donors, and potential migrants who wa
 
 ---
 
-## 🌍 Why Suriname?
-- A small but open economy, ready to experiment with new financial models
-- Strong cultural ties and openness to international visitors
-- Unique opportunity to document and demonstrate how Bitcoin empowers communities
-
----
-
 ## 💸 Support Through Donations
 We use **BTCPayServer** for transparent, direct Bitcoin donations:
 - Lightning and On-Chain supported
 - No intermediaries – full community control
 - Funds go directly into local projects like the **Community Hub** at the old Surinamese House
 
-👉 [Donate here](../donations/btcpayserver.md)
+👉 [Donate here](https://btcpay.bitcoinsranan.com/apps/4ZNM3n8mQinWNrEaMK6toiujeTpJ/crowdfund)
 
 ---
 
@@ -32,20 +25,7 @@ Suriname welcomes Bitcoin migrants and visitors:
 
 ---
 
-## 📊 Strategic Insights
-BitcoinSranan is not just about payments – it’s about building resilient infrastructure:
-- Merchant onboarding and education
-- Community-driven donation platforms
-- Documentation of local infrastructure (power, internet, payments)
-- A roadmap for scaling the circular economy
-
-👉 [See our strategy paper](strategy.md)
-
----
-
-## 📬 Stay Connected
-- Telegram: [bitcoinsranan](https://t.me/bitcoinsranan)
-- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
-- Twitter/X: @bitcoinsranan
-
 Join us in building a model for Bitcoin adoption that others can learn from.
+
+👉 [Contact us](contact.md)
+👉 [BitcoinSranan home](/index.md)

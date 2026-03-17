@@ -16,7 +16,7 @@ Here are the ways you can connect with us, whether you are local or internationa
 ## 📧 Email
 For direct inquiries: 
 - Maya []
-- Michael [btcmike900@pm.me]()
+- Michael [michael@bitcoinsranan.com]()
 
 ---
 
@@ -25,6 +25,7 @@ Join us at the **Community Hub** under the old Surinamese House:
 - Workshops and meetups
 - Merchant onboarding sessions
 - A place to learn and connect
+- Playground for children
 
 👉 [Read more about the Community Hub](community-hub.md)
 
@@ -32,3 +33,5 @@ Join us at the **Community Hub** under the old Surinamese House:
 
 BitcoinSranan is your community.  
 Reach out, join the conversation, and help us build the future together.
+
+👉 [BitcoinSranan home](/index.md)

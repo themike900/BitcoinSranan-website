@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Basis-Pfade
 REPO="/opt/bitcoinsranan/repo"
 CONTENT="$REPO/content"
 ASSETS="$REPO/assets"
@@ -15,9 +16,10 @@ mkdir -p "$PUBLIC"
 cp "$ASSETS/style.css" "$PUBLIC/style.css"
 
 # Bilder kopieren
-cp -r "$ASSETS/images" "$PUBLIC/images"
+mkdir -p "$PUBLIC/images"
+cp -r "$ASSETS/images/"* "$PUBLIC/images/"
 
-# Liste aller Markdown-Dateien
+# Liste aller Markdown-Dateien und Ziel-HTML-Dateien
 FILES=(
     "index.md:index.html"
     "locals.md:locals.html"
@@ -27,6 +29,7 @@ FILES=(
     "community-hub.md:community-hub.html"
 )
 
+# Pandoc Build
 for entry in "${FILES[@]}"; do
     IFS=":" read -r md html <<< "$entry"
     pandoc "$CONTENT/$md" -o "$PUBLIC/$html" --template="$TEMPLATE"

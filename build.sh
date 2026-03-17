@@ -27,6 +27,9 @@ FILES=(
     "projects.md:projects.html"
     "resources.md:resources.html"
     "community-hub.md:community-hub.html"
+    "blog.md:blog.html"
+    "contact.md:contact.html"
+    "strategy.md:startegy.html"
 )
 
 # Pandoc Build

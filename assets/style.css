@@ -170,8 +170,9 @@ th, td {
     margin-top: 1rem;
 }
 
-/* Nur wenn ein Block auf einen Block folgt */
-.content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
+/* Verschmelzen nur, wenn der vorherige Block NICHT direkt nach einer Überschrift kommt */
+.content > *:not(h1):not(h2):not(h3):not(:is(h1 + *, h2 + *, h3 + *))
+    + *:not(h1):not(h2):not(h3) {
     margin-top: -1px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;

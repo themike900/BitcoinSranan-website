@@ -120,6 +120,11 @@ img {
     margin: 1rem 0;
 }
 
+.site-logo {
+    width: 128px;
+    height: auto;
+}
+
 /* Container für Sections */
 .section {
     margin-bottom: 2.5rem;

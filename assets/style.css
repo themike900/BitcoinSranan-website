@@ -1,5 +1,13 @@
 /* Grundlayout */
 body {
+    background: url('/images/rainforest1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    background-color: #f5f5f5;
+}
+
+body {
     margin: 0;
     padding: 0;
     font-family: 'Noto Emoji', system-ui, sans-serif;
@@ -123,3 +131,11 @@ table {
 
 th, td {
     padding
+
+.content > * {
+    background: white;
+    padding: 1.2rem 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}

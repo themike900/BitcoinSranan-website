@@ -30,6 +30,7 @@ FILES=(
     "blog.md:blog.html"
     "contact.md:contact.html"
     "strategy.md:startegy.html"
+    "old-btcpay.md:old-btcpay.html"
 )
 
 # Pandoc Build

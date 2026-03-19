@@ -153,26 +153,42 @@ th, td {
     max-width: 900px;
 }
 
-/* Alles, was NICHT eine Überschrift ist, wird zu einer Karte */
+/* Grundstil für alle Nicht-Überschriften */
 .content > *:not(h1):not(h2):not(h3) {
     background: rgba(255,255,255,0.92);
     padding: 1.5rem 2rem;
-    border-radius: 14px;
     max-width: 900px;
-    margin: 0 auto 1.5rem auto;
+    margin: 0 auto;
+    border-radius: 0;
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
 }
 
-/* ABER: Wenn ein Element direkt auf eine Überschrift folgt → neue Karte */
+/* Erster Block nach einer Überschrift */
 .content h1 + *,
 .content h2 + *,
 .content h3 + * {
-    margin-top: 0.5rem;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    margin-top: 1rem;
 }
 
-/* UND: Wenn mehrere Elemente hintereinander kommen → sie gehören zur gleichen Karte */
+/* Unterer Radius, wenn danach eine Überschrift kommt */
+.content > *:not(h1):not(h2):not(h3):has(+ h1),
+.content > *:not(h1):not(h2):not(h3):has(+ h2),
+.content > *:not(h1):not(h2):not(h3):has(+ h3) {
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    margin-bottom: 2rem;
+}
+
+/* Letzter Block im Dokument */
+.content > *:not(h1):not(h2):not(h3):last-child {
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    margin-bottom: 2rem;
+}
+
+/* Mittlere Blöcke: kein Abstand */
 .content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
-    margin-top: -1rem; /* Karten verschmelzen optisch */
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
+    margin-top: -1px; /* optisch verschmelzen */
 }

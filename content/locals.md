@@ -53,4 +53,5 @@ We provide NFC cards locally and help you set them up with **LNbits** for maximu
 BitcoinSranan is your community. Let’s build the future together.
 
 👉 [Contact us](/contact.html)
+
 👉 [BitcoinSranan home](/index.html)

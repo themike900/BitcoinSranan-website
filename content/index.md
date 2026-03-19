@@ -1,4 +1,5 @@
-# BitcoinSranan – Building a Circular Bitcoin Economy in Suriname
+# BitcoinSranan<br>Building a Circular Bitcoin Economy in Suriname
+
 
 Welcome to **BitcoinSranan**, a community initiative turning Suriname into a living example of a Bitcoin circular economy.  
 Our mission is simple: connect locals and internationals through Bitcoin, empower daily life, and build resilient infrastructure.

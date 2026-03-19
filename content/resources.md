@@ -52,4 +52,5 @@ BitcoinSranan is about making Bitcoin practical and accessible.
 Use these resources to learn, teach, and share.
 
 👉 [Contact us](/contact.html)
+
 👉 [BitcoinSranan home](/index.html)

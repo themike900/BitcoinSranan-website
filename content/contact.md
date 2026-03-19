@@ -7,8 +7,8 @@ Here are the ways you can connect with us, whether you are local or internationa
 
 ## 📬 Community Channels
 - **Telegram (Bitcoin Sranan):** [bitcoinsranan](https://t.me/bitcoinsranan)
-- **Telegram (Suriname Decentralized):** [srdecentralized](t.me/srdecentralized)
-- Nostr: npub1htndw3mvs9s7rlf0sy65ufndr2vz6kkxer0jnknmp004y2s9hlrsq0wwrk
+- **Telegram (Suriname Decentralized):** [srdecentralized](https://t.me/srdecentralized)
+- Nostr: @bitcoinsranan
 - Twitter/X: @bitcoinsranan
 
 ---

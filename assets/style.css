@@ -144,11 +144,35 @@ th, td {
     padding
 }
 
-.content > * {
+.content h1,
+.content h2,
+.content h3 {
+    background: none;
+    padding: 0;
+    margin: 2.5rem auto 1rem auto;
+    max-width: 900px;
+}
+
+/* Alles, was NICHT eine Überschrift ist, wird zu einer Karte */
+.content > *:not(h1):not(h2):not(h3) {
     background: rgba(255,255,255,0.92);
-    padding: 1.2rem 1.5rem;
-    border-radius: 12px;
-    margin: 1.5rem auto;
-    max-width: 800px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    padding: 1.5rem 2rem;
+    border-radius: 14px;
+    max-width: 900px;
+    margin: 0 auto 1.5rem auto;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+/* ABER: Wenn ein Element direkt auf eine Überschrift folgt → neue Karte */
+.content h1 + *,
+.content h2 + *,
+.content h3 + * {
+    margin-top: 0.5rem;
+}
+
+/* UND: Wenn mehrere Elemente hintereinander kommen → sie gehören zur gleichen Karte */
+.content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
+    margin-top: -1rem; /* Karten verschmelzen optisch */
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }

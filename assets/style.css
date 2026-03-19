@@ -153,7 +153,6 @@ th, td {
     max-width: 900px;
 }
 
-/* Grundstil für alle Nicht-Überschriften */
 .content > *:not(h1):not(h2):not(h3) {
     background: rgba(255,255,255,0.92);
     padding: 1.5rem 2rem;
@@ -163,7 +162,6 @@ th, td {
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
 }
 
-/* Erster Block nach einer Überschrift */
 .content h1 + *,
 .content h2 + *,
 .content h3 + * {
@@ -172,7 +170,14 @@ th, td {
     margin-top: 1rem;
 }
 
-/* Unterer Radius, wenn danach eine Überschrift kommt */
+/* Nur wenn ein Block auf einen Block folgt */
+.content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
+    margin-top: -1px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+/* Wenn danach eine Überschrift kommt */
 .content > *:not(h1):not(h2):not(h3):has(+ h1),
 .content > *:not(h1):not(h2):not(h3):has(+ h2),
 .content > *:not(h1):not(h2):not(h3):has(+ h3) {
@@ -186,9 +191,4 @@ th, td {
     border-bottom-left-radius: 14px;
     border-bottom-right-radius: 14px;
     margin-bottom: 2rem;
-}
-
-/* Mittlere Blöcke: kein Abstand */
-.content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
-    margin-top: -1px; /* optisch verschmelzen */
 }

@@ -4,7 +4,6 @@
 Welcome to **BitcoinSranan**, a community initiative turning Suriname into a living example of a Bitcoin circular economy.  
 Our mission is simple: connect locals and internationals through Bitcoin, empower daily life, and build resilient infrastructure.
 
----
 
 ## 🌍 For Locals
 Discover how Bitcoin can be part of your everyday life:
@@ -15,7 +14,6 @@ Discover how Bitcoin can be part of your everyday life:
 
 👉 [Start here](/locals.html)
 
----
 
 ## 🌎 For Internationals
 Support and follow the process of building a Bitcoin economy in Suriname:
@@ -26,7 +24,6 @@ Support and follow the process of building a Bitcoin economy in Suriname:
 
 👉 [Learn more](/internationals.html)
 
----
 
 ## 📌 Current Highlight
 We are building the **Community Hub** at the old Surinamese House – a physical space for workshops, merchant onboarding, and international visitors.  
@@ -34,7 +31,6 @@ This project is funded directly through Bitcoin donations, ensuring transparency
 
 👉 [Read more about the project](/community-hub.html)
 
----
 
 ## 💸 Support Us
 Help us grow by donating through **BTCPayServer**.  
@@ -42,7 +38,6 @@ Your support goes directly into local projects like the Community Hub, merchant 
 
 👉 [Donate here](https://btcpay.bitcoinsranan.com/apps/4ZNM3n8mQinWNrEaMK6toiujeTpJ/crowdfund)
 
----
 
 Join the conversation and be part of BitcoinSranan.
 

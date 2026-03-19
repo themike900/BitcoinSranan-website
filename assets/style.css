@@ -162,32 +162,23 @@ th, td {
     box-shadow: 0 4px 12px rgba(0,0,0,0.06);
 }
 
-.content h1 + *,
-.content h2 + *,
-.content h3 + * {
-    border-top-left-radius: 14px;
-    border-top-right-radius: 14px;
+.content h1 + *:not(h1):not(h2):not(h3),
+.content h2 + *:not(h1):not(h2):not(h3),
+.content h3 + *:not(h1):not(h2):not(h3) {
+    border-top-left-radius: 14px !important;
+    border-top-right-radius: 14px !important;
     margin-top: 1rem;
 }
 
-/* Verschmelzen nur, wenn der vorherige Block NICHT direkt nach einer Überschrift kommt */
-.content > *:not(h1):not(h2):not(h3):not(:is(h1 + *, h2 + *, h3 + *))
-    + *:not(h1):not(h2):not(h3) {
+.content > *:not(h1):not(h2):not(h3) + *:not(h1):not(h2):not(h3) {
     margin-top: -1px;
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
 
-/* Wenn danach eine Überschrift kommt */
 .content > *:not(h1):not(h2):not(h3):has(+ h1),
 .content > *:not(h1):not(h2):not(h3):has(+ h2),
-.content > *:not(h1):not(h2):not(h3):has(+ h3) {
-    border-bottom-left-radius: 14px;
-    border-bottom-right-radius: 14px;
-    margin-bottom: 2rem;
-}
-
-/* Letzter Block im Dokument */
+.content > *:not(h1):not(h2):not(h3):has(+ h3),
 .content > *:not(h1):not(h2):not(h3):last-child {
     border-bottom-left-radius: 14px;
     border-bottom-right-radius: 14px;

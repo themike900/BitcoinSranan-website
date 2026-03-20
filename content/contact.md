@@ -3,7 +3,6 @@
 We want BitcoinSranan to be open and accessible.  
 Here are the ways you can connect with us, whether you are local or international.
 
----
 
 ## 📬 Community Channels
 - **Telegram (Bitcoin Sranan):** [bitcoinsranan](https://t.me/bitcoinsranan)
@@ -11,14 +10,12 @@ Here are the ways you can connect with us, whether you are local or internationa
 - Nostr: @bitcoinsranan
 - Twitter/X: @bitcoinsranan
 
----
 
 ## 📧 Email
 For direct inquiries: 
 - Maya []
 - Michael [michael@bitcoinsranan.com]()
 
----
 
 ## 🏠 Visit Us
 Join us at the **Community Hub** under the old Surinamese House:
@@ -29,9 +26,8 @@ Join us at the **Community Hub** under the old Surinamese House:
 
 👉 [Read more about the Community Hub](/community-hub.html)
 
----
 
-BitcoinSranan is your community.  
+BitcoinSranan is your community.<br>  
 Reach out, join the conversation, and help us build the future together.
 
 👉 [BitcoinSranan home](/index.html)

@@ -2,7 +2,6 @@
 
 This page collects practical guides, tutorials, and references to help both locals and internationals understand and use Bitcoin in Suriname.
 
----
 
 ## 📚 Tutorials
 Step-by-step guides for everyday use:
@@ -14,7 +13,6 @@ Step-by-step guides for everyday use:
 
 👉 [Download tutorials]() (PDFs and videos will be added here)
 
----
 
 ## ❓ Frequently Asked Questions (FAQ)
 **Is Bitcoin safe?**  
@@ -29,7 +27,6 @@ Yes – point-of-sale apps automatically convert SRD to Bitcoin at the current r
 **What if I lose my phone?**  
 Your wallet can be restored with a backup phrase. Always write it down and keep it safe.
 
----
 
 ## 📖 Glossary
 - **Bitcoin** → A decentralized digital currency without banks or intermediaries
@@ -38,7 +35,6 @@ Your wallet can be restored with a backup phrase. Always write it down and keep 
 - **BTCPayServer** → Open-source payment processor for donations and merchant payments
 - **Circular Economy** → A system where Bitcoin is earned and spent locally, creating self-sustaining value
 
----
 
 ## 🔗 External Resources
 - [Bitcoin.org](https://bitcoin.org) → General introduction to Bitcoin
@@ -46,7 +42,6 @@ Your wallet can be restored with a backup phrase. Always write it down and keep 
 - [LNbits.com](https://lnbits.com) → Tools for managing Lightning wallets and BoltCards
 - [Suriname Infrastructure Notes](/projects.html) → Local documentation and quirks
 
----
 
 BitcoinSranan is about making Bitcoin practical and accessible.  
 Use these resources to learn, teach, and share.

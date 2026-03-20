@@ -3,7 +3,6 @@
 BitcoinSranan is more than a local project. It is a living experiment in building a Bitcoin circular economy in Suriname – a small, open economy where Bitcoin can make a real difference.  
 This page is for international supporters, donors, and potential migrants who want to understand and join the process.
 
----
 
 ## 💸 Support Through Donations
 We use **BTCPayServer** for transparent, direct Bitcoin donations:
@@ -13,7 +12,6 @@ We use **BTCPayServer** for transparent, direct Bitcoin donations:
 
 👉 [Donate here](https://btcpay.bitcoinsranan.com/apps/4ZNM3n8mQinWNrEaMK6toiujeTpJ/crowdfund)
 
----
 
 ## 🏠 Migration & Visiting
 Suriname welcomes Bitcoin migrants and visitors:
@@ -23,7 +21,6 @@ Suriname welcomes Bitcoin migrants and visitors:
 
 👉 [Read more about the Community Hub](/community-hub.html)
 
----
 
 Join us in building a model for Bitcoin adoption that others can learn from.
 

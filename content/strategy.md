@@ -1,5 +1,5 @@
 
----
+# Strategy
 
 Join us in building a model for Bitcoin adoption that others can learn from.
 
